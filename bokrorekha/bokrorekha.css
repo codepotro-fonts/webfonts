@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bokrorekha-Regular';
+    src:url('Bokrorekha-Regular.woff') format('woff'), 
+        url('Bokrorekha-Regular.woff2') format('woff2'),
+        url('Bokrorekha-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
